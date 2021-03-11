@@ -1,2 +1,2 @@
 # LP-BDA
-Repo for the domain of Big Data
+* This Repository contains about the technology of Big-Data-Analytics
